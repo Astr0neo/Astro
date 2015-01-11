@@ -1,0 +1,16 @@
+
+    body {
+    text-align: left;
+    padding: 0px;
+    margin: 0px auto;
+    background: #2E2E2E url() no-repeat top center;
+    }
+     
+    #content {
+  width: 1000px;
+  height: 100vh;
+  top: 0;
+  margin: auto;
+  position:relative;
+  background: #FFFFFF url() no-repeat top center;
+}
